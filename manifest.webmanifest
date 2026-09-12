@@ -1,0 +1,10 @@
+{
+  "name": "Cisco ENCOR NEW DUMP 368 - 2026.09",
+  "short_name": "ENCOR 368",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b63ce",
+  "description": "Cisco ENCOR 2026.09 English-only mobile question bank"
+}
